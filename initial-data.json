@@ -1,0 +1,124 @@
+{
+  "competition": {
+    "title": "القسم الرابع",
+    "subtitle": "منطقة المنيا وبني سويف",
+    "season": "2026 / 2027",
+    "coachName": "كابتن رجب الوجيه",
+    "phone": "01200503513",
+    "currentWeek": 4
+  },
+  "teams": [
+    {
+      "id": "beba",
+      "name": "مركز شباب ببا",
+      "played": 4,
+      "won": 3,
+      "drawn": 1,
+      "lost": 0,
+      "gf": 11,
+      "ga": 2,
+      "points": 10
+    },
+    {
+      "id": "matay",
+      "name": "مركز شباب مطاي",
+      "played": 4,
+      "won": 3,
+      "drawn": 0,
+      "lost": 1,
+      "gf": 10,
+      "ga": 3,
+      "points": 9
+    },
+    {
+      "id": "maghagha-youth",
+      "name": "مركز شباب مغاغة",
+      "played": 4,
+      "won": 3,
+      "drawn": 0,
+      "lost": 1,
+      "gf": 9,
+      "ga": 6,
+      "points": 9
+    },
+    {
+      "id": "maghagha",
+      "name": "نادي مغاغة",
+      "played": 4,
+      "won": 3,
+      "drawn": 0,
+      "lost": 1,
+      "gf": 6,
+      "ga": 6,
+      "points": 9
+    },
+    {
+      "id": "dermawas",
+      "name": "نادي ديرمواس",
+      "played": 4,
+      "won": 2,
+      "drawn": 1,
+      "lost": 1,
+      "gf": 9,
+      "ga": 5,
+      "points": 7
+    },
+    {
+      "id": "wasta",
+      "name": "مركز شباب الواسطى",
+      "played": 4,
+      "won": 2,
+      "drawn": 0,
+      "lost": 2,
+      "gf": 15,
+      "ga": 6,
+      "points": 6
+    },
+    {
+      "id": "ehnasia",
+      "name": "نادي اهناسيا",
+      "played": 4,
+      "won": 2,
+      "drawn": 0,
+      "lost": 2,
+      "gf": 3,
+      "ga": 8,
+      "points": 6
+    },
+    {
+      "id": "adwa",
+      "name": "مركز شباب العدوة",
+      "played": 4,
+      "won": 1,
+      "drawn": 0,
+      "lost": 3,
+      "gf": 4,
+      "ga": 5,
+      "points": 3
+    },
+    {
+      "id": "samalout",
+      "name": "نادي سمالوط",
+      "played": 4,
+      "won": 0,
+      "drawn": 0,
+      "lost": 4,
+      "gf": 2,
+      "ga": 13,
+      "points": 0
+    },
+    {
+      "id": "madina",
+      "name": "مركز شباب المدينة",
+      "played": 4,
+      "won": 0,
+      "drawn": 0,
+      "lost": 4,
+      "gf": 4,
+      "ga": 19,
+      "points": 0
+    }
+  ],
+  "matches": [],
+  "news": []
+}
